@@ -1,1 +1,1 @@
-# Garmin-fetch.sh
+# Garmin-fetch
